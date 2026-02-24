@@ -35,7 +35,7 @@ We are currently assembling the core engineering team to build the V1 / Proof of
 2.  **Backend Engineers** to set up the lightweight sync infrastructure.
 3.  **Local Tech Enthusiasts** who want to build software that directly impacts their neighborhood businesses.
 
-Read our [CONTRIBUTING.md][link-to-contributing](https://github.com/maxdiamond-git/dukaandesk/blob/main/Contributing.md) to get started, or drop a message in our [Discord/Slack/Telegram Link] to say hello!
+Read our [CONTRIBUTING.md](https://github.com/maxdiamond-git/dukaandesk/blob/main/Contributing.md) to get started, or drop a message in our [Discord/Slack/Telegram Link] to say hello!
 
 ---
 *DukaanDesk is built in Bengaluru, for the world's micro-economies.*
