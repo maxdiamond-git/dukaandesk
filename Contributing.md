@@ -70,6 +70,6 @@ Be open to feedback. Code reviews are discussions, not criticisms. We are all he
 
 If you are stuck on an architectural decision or need clarification on a design token, don't guess! 
 * Ping us in the related GitHub Issue.
-* Join our community channel at [Link to Discord/Slack/Telegram].
+* Join our community channel at [Slack].
 
 Let's build something that makes a difference.
