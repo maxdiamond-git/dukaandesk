@@ -7,6 +7,8 @@
 
 [![UI/UX Status: Completed](https://img.shields.io/badge/UI%2FUX-Completed-success)](#) [![Target Platform: Android](https://img.shields.io/badge/Platform-Android%20Native-blue)](#) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](#)
 
+[Complete UX Case Study](https://maxdiamondhead.com/portfolio/dukaandesk/)
+
 ## The Problem
 Millions of micro-SMBs in India—*Kirana* stores, local salons, appliance repair hubs—are losing ground to quick commerce and big retail. They manage their daily operations through fragmented, analog systems: physical notebooks, WhatsApp messages, and pure memory. 
 
